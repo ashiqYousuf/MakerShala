@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Raleway:wght@200;400&family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Raleway';
+    background-color: rgb(237, 245, 245);
+}
+.yellow-top{
+    background-color: rgb(255, 217, 0);
+    color: black;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 70px;
+}
+
+.lead{
+    font-weight: 560;
+}
+
+.para-top{
+    padding: 20px;
+
+}
+
+.details-link{
+    text-decoration: none;
+    color: blue;
+}
+
+
+.navbar{
+    margin-top: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-color: rgb(95, 19, 167);
+    min-height: 100px;
+    padding: 30px;
+}
+
+.nav-link:hover{
+    font-weight: bolder;
+    color: black;
+}
+
+.btn-signin{
+    background-color: goldenrod;
+}
+
+.btn-signin:hover{
+    font-weight: bolder;
+}
+
+.para-class{
+    font-weight: bold;
+}
+
+.card{
+    border-radius: 25px;
+    padding: 0;
+    height: auto;
+}
+.card-img-top{
+    border-radius: 25px 25px 0 0;
+    padding: 0;
+    height: 250px;
+    /* object-fit: cover;
+    height: 50%; */
+}
+
+#enter-btn:hover{
+    background-color: black;
+    color: white;
+}
+
+#enter-btn{
+    background-color: orange;
+    font-weight: 700;
+    border-radius: 13px;
+}
+
+.nav-img{
+    height: 100px;
+    width: 90px;
+    border-radius: 50%;
+}
+
+.footer{
+    background-color: rgb(95, 19, 167);
+    min-height: 100%;
+    height: 100%;
+}
+
+.img-fluid{
+    border-radius: 40%;
+    height: 100px;
+    width: 100px;
+}
+
+.act{
+    color: whitesmoke;
+}
+
+.actv{
+    color: goldenrod;
+}
